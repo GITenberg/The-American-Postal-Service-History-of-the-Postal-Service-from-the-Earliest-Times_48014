@@ -1,10 +1,16 @@
 _repo: The-American-Postal-Service-History-of-the-Postal-Service-from-the-Earliest-Times_48014
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48014-h/images/cover.jpg
 creator:
   author:
     agent_name: Melius, Louis
     gutenberg_agent_id: '44581'
     url: http://www.gutenberg.org/2009/agents/44581
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48014#The-American-Postal-Service-History-of-the-Postal-Service-from-the-Earliest-Times
 gutenberg_issued: '2015-01-18'
 gutenberg_type: Text
 identifiers:
